@@ -50,7 +50,8 @@
         "santigarcor/laratrust": "5.2.*",
         "simshaun/recurr": "4.0.*",
         "staudenmeir/belongs-to-through": "^2.10",
-        "staudenmeir/eloquent-has-many-deep": "^1.12"
+        "staudenmeir/eloquent-has-many-deep": "^1.12",
+        "fzaninotto/faker": "^1.9.1"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
